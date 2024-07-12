@@ -1,0 +1,17 @@
+gdown
+huggingface-hub
+opencv-python
+transformers
+accelerate
+diffusers
+onnxruntime-gpu
+insightface
+omegaconf
+controlnet_aux
+gradio
+peft
+torch
+torchvision
+safetensors
+einops
+spaces
